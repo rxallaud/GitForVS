@@ -12,6 +12,8 @@ namespace GitTest
         {
             // Hello world 
             // today world
+
+            // thest changes will be stashed.
             // stashed changes are gone.
         }
     }
