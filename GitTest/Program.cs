@@ -15,6 +15,8 @@ namespace GitTest
 
             // thest changes will be stashed.
             // stashed changes are gone.
+
+            // changes not committed to github
         }
     }
 }
